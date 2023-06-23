@@ -19,6 +19,7 @@ build/
 *.iml
 *.ipr
 out/
+data/
 
 ### NetBeans ###
 /nbproject/private/
@@ -31,7 +32,7 @@ out/
 .vscode/
 
 ### Package Files ###
-*.jar
+
 *.war
 *.nar
 *.ear
